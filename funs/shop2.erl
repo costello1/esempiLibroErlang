@@ -1,4 +1,4 @@
--module(shop).
+-module(shop2).
 -export([total/1]).
 -import(list, [map/2, sum/1]).
 
